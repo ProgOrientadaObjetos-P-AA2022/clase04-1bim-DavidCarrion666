@@ -20,6 +20,8 @@ public class Ejecutor {
                 fac.obtenerValorMinuto(),
                 fac.obtenerValorFactura());
         
+        System.out.println(fac);
+        
         // Se crea un objeto haciendo referencia al constructor 
         // con argumentos de la clase
         String numero = "123456789";
